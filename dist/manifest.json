@@ -1,0 +1,11 @@
+{
+  "name": "CropGuard - AI Crop Disease Detector",
+  "short_name": "CropGuard",
+  "description": "Identify crop diseases instantly with AI",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f7f5",
+  "theme_color": "#2d6a4f",
+  "orientation": "portrait",
+  "icons": []
+}
