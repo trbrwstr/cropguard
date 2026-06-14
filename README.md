@@ -71,3 +71,7 @@ This prototype should not be used as the sole basis for agricultural treatment d
 - [Development setup](docs/DEVELOPMENT.md)
 - [Production roadmap](docs/ROADMAP.md)
 - [Ownership and licensing notes](docs/OWNERSHIP.md)
+
+## Rights
+
+All rights reserved.
